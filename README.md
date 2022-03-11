@@ -3,7 +3,7 @@
 </p>
 <h3>Things I code with</h3>
 <p>
-  <img alt="Python" src="https://qautomate.fi/wp-content/uploads/2020/12/Python-e1615477501387.png" />
+  <img alt="Python" src="https://img.shields.io/badge/python-v3.7-blue" />
 
 
 ## Watch my contribution graph get eaten by the snake 🐍
