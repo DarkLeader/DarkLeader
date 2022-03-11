@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
+ <img align="center" src="https://github.com/DarkLeader/blob/output/github-contribution-grid-snake.gif">
