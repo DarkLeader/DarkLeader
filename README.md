@@ -9,7 +9,7 @@
 
 <img alt="Python" src="https://img.shields.io/badge/python-v3.7-blue" /> <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" /> <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 
-<video width="320" height="240" controls>
+<video>
   <source src="https://player02.getcourse.ru/player/195ff62f65860fdf0c5352ddfb8e91a4/44b4ec97b7eada7da7a1a042c8030017/master.m3u8?sid=sid&host=vh-28&user-cdn=gcore&v=4%3A2%3A1%3A0&user-id=103381914" type="video/mp4" type="video/mp4">
  
   
